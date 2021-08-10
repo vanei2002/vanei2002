@@ -8,6 +8,6 @@
 
 <div>
   <a href="https://github.com/vanei2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Daniel-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true%22/%3E 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Daniel-dev&layout=compact&langs_count=16&theme=radical%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanei2002&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanei2002&layout=compact&langs_count=16&theme=radical"/>
 </div>

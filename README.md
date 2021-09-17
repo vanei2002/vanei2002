@@ -4,7 +4,7 @@
 
 - :telescope: Atualmente estou apenas estudando
 - :seedling: Estudando Javascript e seus frameworks
-- :smile: Pronouns: ele/dele
+- :smile: Interesse: javaScript, typescript, react, react native, nextJs, vueJs e nodeJs
 
 
 <div>

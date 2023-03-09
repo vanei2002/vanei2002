@@ -33,7 +33,7 @@
   
   <img align="center" alt="Dan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   
-  <img align="center" alt="Dan-Ts" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/mongodb"> 
+  <img align="center" alt="Dan-Ts" height="30" width="40" src="https://github.com/devicons/devicon/tree/master/icons/mongodb/mongodb-plain.svg"> 
 </div>
 
 

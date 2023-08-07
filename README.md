@@ -1,49 +1,46 @@
-### Olá! Eu sou o Vanei Mendes
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8bbee9&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8bbee9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vanei+Mendes;I'm+21+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)<br><br> 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanei2002&bg_color=0d1117&color=4ca4ec&line=4ca4ec&point=8bbee9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- :telescope: Atualmente trabalho como Auxiliar de Automação e Desenvolvedor FullStack Freelance
-- :seedling: Estudando Javascript e seus frameworks
-- :smile: Interesse: javaScript, typescript, react, react native, nextJs, vueJs e nodeJs, docker, 
-
-
-<div style="display: flex">
-  <a href="https://github.com/vanei2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanei2002&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanei2002&layout=compact&langs_count=16&theme=radical"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vanei2002&show_icons=true&count_private=true&hide_border=true&title_color=8bbee9&icon_color=8bbee9&text_color=c9d1d9&bg_color=0d1117" alt="Vanei Mendes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanei2002&layout=compact&hide_border=true&title_color=8bbee9&text_color=8bbee9&bg_color=0d1117" />
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Dan-Bt" height="41" width="40" src="https://img.icons8.com/color/452/bootstrap.png">
-  
-  <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="center" alt="Dan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  
-  <img align="center" alt="Dan-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
-  
-  <img align="center" alt="Dan-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
-  
-  <img align="center" alt="Dan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  
-  <img align="center" alt="Dan-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"> 
-</div>
-
 
 <br>
-  
-<div style="">
+
+<div align="center">
   <a href="https://www.instagram.com/vaneimendes016/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vanei.jesus016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vanei-mendes-353bb71ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+ ### Main skills:
+[![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)](https://www.figma.com/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+[![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117&textColor=0D1117)](https://sass-lang.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)](https://getbootstrap.com/)
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+[![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=0D1117)](https://nestjs.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)](https://www.mongodb.com/)
+[![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117&textColor=0D1117)](https://aws.amazon.com/)
+
+
+### Studying in this moment:
+
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&labelColor=000000&textColor=0D1117)](https://nextjs.org/)
+[![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)](https://www.postgresql.org/)
+
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8bbee9&height=120&section=footer"/>
 

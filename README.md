@@ -2,9 +2,9 @@
 
 
 
-- :telescope: Atualmente estou apenas estudando
+- :telescope: Atualmente trabalho como Auxiliar de Automação e Desenvolvedor FullStack Freelance
 - :seedling: Estudando Javascript e seus frameworks
-- :smile: Interesse: javaScript, typescript, react, react native, nextJs, vueJs e nodeJs
+- :smile: Interesse: javaScript, typescript, react, react native, nextJs, vueJs e nodeJs, docker, 
 
 
 <div style="display: flex">

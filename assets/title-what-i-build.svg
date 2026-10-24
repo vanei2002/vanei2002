@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="40" viewBox="0 0 840 40">
+  <defs>
+    <linearGradient id="left" x1="0" x2="1"><stop offset="0" stop-color="#8bbee9" stop-opacity="0"/><stop offset="1" stop-color="#8bbee9"/></linearGradient>
+    <linearGradient id="right" x1="0" x2="1"><stop offset="0" stop-color="#8bbee9"/><stop offset="1" stop-color="#8bbee9" stop-opacity="0"/></linearGradient>
+  </defs>
+  <text x="420" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700" fill="#8bbee9">// what_i_build</text>
+  <rect x="140" y="19" width="160" height="1.5" fill="url(#left)"/>
+  <rect x="540" y="19" width="160" height="1.5" fill="url(#right)"/>
+</svg>

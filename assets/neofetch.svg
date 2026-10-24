@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="470" viewBox="0 0 840 470">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; }
+    .k { fill: #8bbee9; font-weight: 700; }
+    .v { fill: #c9d1d9; }
+    .dim { fill: #8b949e; }
+    .l { opacity: 0; animation: in .35s ease-out forwards; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cfe3f5"/>
+      <stop offset=".5" stop-color="#8bbee9"/>
+      <stop offset="1" stop-color="#4ca4ec"/>
+    </linearGradient>
+    <clipPath id="typed">
+      <rect x="175" y="56" height="22" width="0">
+        <animate attributeName="width" values="0;8.4;16.8;25.2;33.6;42;50.4;58.8;67.2" dur="0.8s" begin="0.4s" fill="freeze" calcMode="discrete"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="839" height="469" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M12.5 0.5h815a12 12 0 0 1 12 12v23.5h-839v-23.5a12 12 0 0 1 12-12z" fill="#161b22"/>
+  <line x1="0.5" y1="36" x2="839.5" y2="36" stroke="#30363d"/>
+  <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+  <text x="420" y="23" text-anchor="middle" class="mono dim" font-size="13">vanei@evoluxis: ~</text>
+
+  <text x="24" y="72" class="mono" xml:space="preserve"><tspan class="k">vanei@evoluxis</tspan><tspan class="v">:</tspan><tspan fill="#4ca4ec">~</tspan><tspan class="v">$ </tspan></text>
+  <text x="175" y="72" class="mono" fill="#ffffff" clip-path="url(#typed)">neofetch</text>
+
+  <g class="l" style="animation-delay:1.2s">
+  <g fill="url(#logo)">
+    <rect x="46" y="126" width="14" height="14" rx="2"/>
+    <rect x="110" y="126" width="14" height="14" rx="2"/>
+    <rect x="142" y="126" width="14" height="14" rx="2"/>
+    <rect x="206" y="126" width="14" height="14" rx="2"/>
+    <rect x="46" y="142" width="14" height="14" rx="2"/>
+    <rect x="110" y="142" width="14" height="14" rx="2"/>
+    <rect x="142" y="142" width="14" height="14" rx="2"/>
+    <rect x="158" y="142" width="14" height="14" rx="2"/>
+    <rect x="190" y="142" width="14" height="14" rx="2"/>
+    <rect x="206" y="142" width="14" height="14" rx="2"/>
+    <rect x="46" y="158" width="14" height="14" rx="2"/>
+    <rect x="110" y="158" width="14" height="14" rx="2"/>
+    <rect x="142" y="158" width="14" height="14" rx="2"/>
+    <rect x="174" y="158" width="14" height="14" rx="2"/>
+    <rect x="206" y="158" width="14" height="14" rx="2"/>
+    <rect x="46" y="174" width="14" height="14" rx="2"/>
+    <rect x="110" y="174" width="14" height="14" rx="2"/>
+    <rect x="142" y="174" width="14" height="14" rx="2"/>
+    <rect x="174" y="174" width="14" height="14" rx="2"/>
+    <rect x="206" y="174" width="14" height="14" rx="2"/>
+    <rect x="62" y="190" width="14" height="14" rx="2"/>
+    <rect x="94" y="190" width="14" height="14" rx="2"/>
+    <rect x="142" y="190" width="14" height="14" rx="2"/>
+    <rect x="206" y="190" width="14" height="14" rx="2"/>
+    <rect x="62" y="206" width="14" height="14" rx="2"/>
+    <rect x="94" y="206" width="14" height="14" rx="2"/>
+    <rect x="142" y="206" width="14" height="14" rx="2"/>
+    <rect x="206" y="206" width="14" height="14" rx="2"/>
+    <rect x="78" y="222" width="14" height="14" rx="2"/>
+    <rect x="142" y="222" width="14" height="14" rx="2"/>
+    <rect x="206" y="222" width="14" height="14" rx="2"/>
+  </g>
+    <text x="46" y="276" class="mono dim" font-size="12">software · ai · cloud</text>
+  </g>
+
+  <g class="mono">
+    <text x="290" y="110" class="l" style="animation-delay:1.3s"><tspan class="k">vanei</tspan><tspan class="v">@</tspan><tspan class="k">evoluxis</tspan></text>
+    <text x="290" y="132" class="l" fill="#484f58" style="animation-delay:1.4s">--------------</text>
+
+    <g class="l" style="animation-delay:1.55s"><text x="290" y="156" class="k">Role</text><text x="395" y="156" class="v">Software Engineer</text></g>
+    <g class="l" style="animation-delay:1.7s"><text x="290" y="178" class="k">Founder</text><text x="395" y="178" class="v">Evoluxis Systems</text></g>
+    <g class="l" style="animation-delay:1.85s"><text x="290" y="200" class="k">Working</text><text x="395" y="200" class="v">Verse.ia @ MooveHub Tech</text></g>
+    <g class="l" style="animation-delay:2s"><text x="290" y="222" class="k">Focus</text><text x="395" y="222" class="v">Back-end, Architecture, AWS Cloud</text></g>
+    <g class="l" style="animation-delay:2.15s"><text x="290" y="244" class="k">AI</text><text x="395" y="244" class="v">Agents, RAG, MCP servers, LLMs</text></g>
+    <g class="l" style="animation-delay:2.3s"><text x="290" y="266" class="k">Languages</text><text x="395" y="266" class="v">TypeScript, JavaScript, Python</text></g>
+    <g class="l" style="animation-delay:2.45s"><text x="290" y="288" class="k">Stack</text><text x="395" y="288" class="v">Node.js, NestJS, React, Next.js</text></g>
+    <g class="l" style="animation-delay:2.6s"><text x="290" y="310" class="k">Data</text><text x="395" y="310" class="v">PostgreSQL, MongoDB</text></g>
+    <g class="l" style="animation-delay:2.75s"><text x="290" y="332" class="k">Infra</text><text x="395" y="332" class="v">AWS, Docker</text></g>
+    <g class="l" style="animation-delay:2.9s"><text x="290" y="354" class="k">Education</text><text x="395" y="354" class="v">Systems Development</text></g>
+    <g class="l" style="animation-delay:3.05s"><text x="290" y="376" class="k">Location</text><text x="395" y="376" class="v">Brazil</text></g>
+  </g>
+
+  <g class="l" style="animation-delay:3.25s">
+    <rect x="290" y="394" width="28" height="14" fill="#161b22"/>
+    <rect x="320" y="394" width="28" height="14" fill="#1f3a52"/>
+    <rect x="350" y="394" width="28" height="14" fill="#2f5f86"/>
+    <rect x="380" y="394" width="28" height="14" fill="#4ca4ec"/>
+    <rect x="410" y="394" width="28" height="14" fill="#8bbee9"/>
+    <rect x="440" y="394" width="28" height="14" fill="#cfe3f5"/>
+    <rect x="470" y="394" width="28" height="14" fill="#c9d1d9"/>
+    <rect x="500" y="394" width="28" height="14" fill="#ffffff"/>
+  </g>
+
+  <g class="l" style="animation-delay:3.5s">
+    <text x="24" y="448" class="mono" xml:space="preserve"><tspan class="k">vanei@evoluxis</tspan><tspan class="v">:</tspan><tspan fill="#4ca4ec">~</tspan><tspan class="v">$ </tspan></text>
+    <rect x="176" y="436" width="9" height="16" fill="#8bbee9" class="cursor"/>
+  </g>
+</svg>

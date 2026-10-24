@@ -1,52 +1,68 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8bbee9&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8bbee9&height=220&section=header&text=Vanei%20Mendes&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Software%20Engineer%20%7C%20Founder%20of%20Evoluxis%20Systems&descSize=18&descAlignY=56&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8bbee9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vanei+Mendes;I'm+21+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)<br><br> 
+<div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanei2002&bg_color=0d1117&color=4ca4ec&line=4ca4ec&point=8bbee9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8BBEE9&center=true&vCenter=true&width=620&lines=Back-end%2C+architecture+and+AWS+cloud;Building+AI+agents%2C+RAG+and+MCP+servers;Sites%2C+apps+and+SaaS+for+businesses;Based+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanei2002&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<br><br>
 
+<a href="https://www.evoluxissystems.com.br/"><img src="https://img.shields.io/badge/evoluxissystems.com.br-0d1117?style=for-the-badge&logo=googlechrome&logoColor=8bbee9" /></a>
+<a href="https://www.linkedin.com/in/vanei-mendes-353bb71ab/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8bbee9" /></a>
+<a href="mailto:vaneimendes.devfull@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=8bbee9" /></a>
+<a href="https://www.instagram.com/vaneimendes016/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=8bbee9" /></a>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vanei2002&show_icons=true&count_private=true&hide_border=true&title_color=8bbee9&icon_color=8bbee9&text_color=c9d1d9&bg_color=0d1117" alt="Vanei Mendes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanei2002&layout=compact&hide_border=true&title_color=8bbee9&text_color=8bbee9&bg_color=0d1117" />
 </div>
 
 <br>
 
-<div align="center">
-  <a href="https://www.instagram.com/vaneimendes016/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vanei.jesus016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vanei-mendes-353bb71ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<img width="100%" src="./assets/title-whoami.svg" alt="whoami" />
 
+<img width="100%" src="./assets/neofetch.svg" alt="neofetch: Vanei Mendes, Software Engineer, Founder of Evoluxis Systems" />
 
- ### Main skills:
-[![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117&textColor=0D1117)](https://www.figma.com/)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-[![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117&textColor=0D1117)](https://sass-lang.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)](https://getbootstrap.com/)
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-[![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=0D1117)](https://nestjs.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&textColor=0D1117)](https://www.mongodb.com/)
-[![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117&textColor=0D1117)](https://aws.amazon.com/)
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&labelColor=000000&textColor=0D1117)](https://nextjs.org/)
-[![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)](https://www.docker.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)](https://www.postgresql.org/)
+<br><br>
 
+<img width="100%" src="./assets/title-what-i-build.svg" alt="what I build" />
 
+<a href="https://www.evoluxissystems.com.br/"><img width="100%" src="./assets/services.svg" alt="AI Agents, SaaS and MVPs, APIs and Integrations, Cloud and Architecture" /></a>
 
+<br>
 
-### Studying in this moment:
+<img width="100%" src="./assets/title-tech-stack.svg" alt="tech stack" />
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,sass,css,bootstrap,figma&theme=dark&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,postgres,mongodb,aws,docker,git&theme=dark&perline=8" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=anthropic&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logo=databricks&logoColor=8bbee9" />
+  <img src="https://img.shields.io/badge/WhatsApp_Agents-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
+</p>
 
+<br>
 
+<img width="100%" src="./assets/title-github-stats.svg" alt="github stats" />
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vanei2002&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=10&title_color=8bbee9&icon_color=8bbee9&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanei2002&layout=compact&langs_count=6&hide_border=true&border_radius=10&title_color=8bbee9&text_color=c9d1d9&bg_color=0d1117" />
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8bbee9&height=120&section=footer"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vanei2002&hide_border=true&border_radius=10&background=0d1117&ring=8bbee9&fire=8bbee9&currStreakLabel=8bbee9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=30363d" />
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanei2002/vanei2002/output/github-snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/vanei2002/vanei2002/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanei2002&style=for-the-badge&color=8bbee9&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8bbee9,100:0d1117&height=120&section=footer" />

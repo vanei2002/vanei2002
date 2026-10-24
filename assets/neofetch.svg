@@ -79,10 +79,10 @@
     <g class="l" style="animation-delay:1.85s"><text x="290" y="200" class="k">Working</text><text x="395" y="200" class="v">Verse.ia @ MooveHub Tech</text></g>
     <g class="l" style="animation-delay:2s"><text x="290" y="222" class="k">Focus</text><text x="395" y="222" class="v">Back-end, Architecture, AWS Cloud</text></g>
     <g class="l" style="animation-delay:2.15s"><text x="290" y="244" class="k">AI</text><text x="395" y="244" class="v">Agents, RAG, MCP servers, LLMs</text></g>
-    <g class="l" style="animation-delay:2.3s"><text x="290" y="266" class="k">Languages</text><text x="395" y="266" class="v">TypeScript, JavaScript, Python</text></g>
+    <g class="l" style="animation-delay:2.3s"><text x="290" y="266" class="k">Languages</text><text x="395" y="266" class="v">TypeScript, JavaScript, Python, Go</text></g>
     <g class="l" style="animation-delay:2.45s"><text x="290" y="288" class="k">Stack</text><text x="395" y="288" class="v">Node.js, NestJS, React, Next.js</text></g>
-    <g class="l" style="animation-delay:2.6s"><text x="290" y="310" class="k">Data</text><text x="395" y="310" class="v">PostgreSQL, MongoDB</text></g>
-    <g class="l" style="animation-delay:2.75s"><text x="290" y="332" class="k">Infra</text><text x="395" y="332" class="v">AWS, Docker</text></g>
+    <g class="l" style="animation-delay:2.6s"><text x="290" y="310" class="k">Data</text><text x="395" y="310" class="v">PostgreSQL, MongoDB, Redis</text></g>
+    <g class="l" style="animation-delay:2.75s"><text x="290" y="332" class="k">Infra</text><text x="395" y="332" class="v">AWS, OCI, Docker, Kubernetes</text></g>
     <g class="l" style="animation-delay:2.9s"><text x="290" y="354" class="k">Education</text><text x="395" y="354" class="v">Systems Development</text></g>
     <g class="l" style="animation-delay:3.05s"><text x="290" y="376" class="k">Location</text><text x="395" y="376" class="v">Brazil</text></g>
   </g>
